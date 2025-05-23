@@ -1,0 +1,2 @@
+# Tuckman-s-Model-Common-Themes-Extraction-using-NLP-Text-Classification
+This study analyzes leadership reflections using NLP to identify key experiences, behavior patterns, and emotional tones. Keywords like teamwork, communication, and resilience reveal growth and self-awareness. A hybrid of rule-based methods and BERT enables efficient theme detection, offering scalable, objective insights into leadership.
